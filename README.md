@@ -1,5 +1,5 @@
 <h2 align="center">👋 Hi there, I'm <span style="color:#4BA3C3">Pureum Kim</span>!</h2>
-<p align="center">함께 성장하며 기술을 나누는 문화를 좋아합니다 🌱</p>
+<p align="center">함께 성장하며 기술을 나누는 문화를 좋아합니다</p>
 
 ---
 
